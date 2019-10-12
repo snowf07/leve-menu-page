@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="wx_file_titles">
+        <item>缩略图</item>
+        <item>今天</item>
+        <item>昨天</item>
+        <item>一月内</item>
+        <item>更早</item>
+    </string-array>
+
+    <string-array name="wx_file_titles_video">
+        <item>今天</item>
+        <item>昨天</item>
+        <item>一月内</item>
+        <item>更早</item>
+    </string-array>
+
+
+</resources>
